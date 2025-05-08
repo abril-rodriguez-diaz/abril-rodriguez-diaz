@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @abril-rodriguez-diaz
-- 👀 I’m interested in public policy, specifically welfare policy in Latam.
-- 🌱 I’m a sophomore in Cabot House studying government.
-- 💞️ I love cooking and dancing.
+- 👀 I’m interested in healthcare and medicine, public policy, psychology, and research. 
 - 📫 Reach me at abrilrodriguezdiaz@college.harvard.edu
 
 <!---
